@@ -1,6 +1,6 @@
 # ybi_internship_prj
 This project was completed under the guidance of YBI Foundation as part of their Data Analytics Internship.
-# **Financial Market News - Sentiment Analysis**
+# **Title of the Project: Financial Market News - Sentiment Analysis**
 
 ## **Objective**
 The primary goal of this project is to build a machine learning model to analyze the sentiment of top 25 daily financial market news articles. The task involves classifying the news articles into positive or negative sentiment categories.
